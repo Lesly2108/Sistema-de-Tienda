@@ -1,7 +1,7 @@
 # Sistema-de-Tienda
 
 Este es un sistema básico de punto de venta hecho con HTML, CSS y JavaScript puro.  
-Funciona completamente en el navegador y puede ser publicado con GitHub Pages.
+Funciona completamente en el navegador.
 
 ## Funciones:
 - Agregar productos al carrito
